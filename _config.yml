@@ -15,7 +15,7 @@ name                     : &name "Cuc Thi Bui"
 description              : &description "NLP Scientist"
 url                      : https://cucbui57.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+# repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Cuc Thi Bui"
   pronouns         : "she/her"  
-  bio              : "NLP Scientist at ZaloAI. I work on Natural Language Processing and Speech Processing, with a focus on developing models that can support Vietnamese language."
+  bio              : "NLP Scientist"
   location         : "Ho Chi Minh City, Vietnam"
   employer         : "ZaloAI - VNG Corporation"
   uri              : # URL
@@ -33,12 +33,9 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=HU6SHfkAAAAJ&hl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL 
 
 
-  linkedin         : # cucbui
+  linkedin         : "https://www.linkedin.com/in/cucbui/"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
