@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Cuc Bui
 ======
 Welcome! I am an NLP Scientist at Zalo AI at Ho Chi Minh city, Vietnam. I have been a researcher at UIT@NLP lab during my undergraduate degree at University of Information Technology. After receiving my bachelor’s degree in computer science, I have continued to do part-time research at this lab until now. In parallel, I have worked as an AI researcher at Zalo AI, Vietnam for 5+ years.
 
