@@ -22,7 +22,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Cuc Thi Bui"
   pronouns         : "she/her"  
   bio              : "NLP Scientist"
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=HU6SHfkAAAAJ&hl"
 
 
-  linkedin         : "https://www.linkedin.com/in/cucbui/"
+  linkedin         : "cucbui"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
